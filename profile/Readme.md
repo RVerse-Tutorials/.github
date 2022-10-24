@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/RVerse-Tutorials/rverse-tutorials.github.io/master/img/tools-logo-transparent.png" align="right" width="200" />
 
-**RVerse Tutorials** is a collection of teaching materials on R and R Workflow by the Mathematical Biology Program and the Northwest Fisheries Science Center.
+**RVerse Tutorials** is a collection of teaching materials on R and R Workflow by the Mathematical Biology Program at the Northwest Fisheries Science Center, NOAA Fisheries.
 
 ### WORKSHOPS and TUTORIALS {#workshops}
 
