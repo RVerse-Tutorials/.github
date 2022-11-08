@@ -2,6 +2,7 @@
 
 **RVerse Tutorials** is a collection of teaching materials on R and R Workflow by the Mathematical Biology Program at the Northwest Fisheries Science Center, NOAA Fisheries. [website](https://rverse-tutorials.github.io/)
 
+* [NMFS Openscapes Fall 2022 Tutorials](https://rverse-tutorials.github.io/NMFS-Openscapes-fall-2022/)
 * [Women in Statistics and Data Science Conference 2022](https://rverse-tutorials.github.io/WSDS-StLouis/)
 * [RWorkflow NOAA Spr 2022](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/)
 * [PSAW III 2022](https://rverse-tutorials.github.io/PSAW-2022/)
